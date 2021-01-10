@@ -1,7 +1,7 @@
 {
-    "token": "Token",
-    "prefix": "w!",
-    "server": "wyliegdps02.7m.pl/database",
+    "token": "Nzk3ODA4MTAyMTg3NTk3ODU2.X_r2sg.Kk7OE7YvZ3LEpWZvYlARTQUIgdw",
+    "prefix": "k!",
+    "server": "http://gdps.mathieuar.fr/kaserine/database",
     "customStatus": "WGDPS",
     "commandColour": "37D0DA",
     "__Emote Comment__": "These are all the emotes for the bot, you need to set them up yourself if you want the bot to look nice",
